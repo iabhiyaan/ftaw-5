@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ft-awesome-5';
+    src: url('../fa-light-300.ttf') format('truetype');
+}
+
+.fa-atom::before {
+    content: '\f5d2';
+    font-family: 'ft-awesome-5';
+}
